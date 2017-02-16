@@ -60,3 +60,4 @@ DerivedDataCache/*
 Build/
 Content/StarterContent/
 *.pdb
+Builds/
